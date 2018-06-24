@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/h-hw/h-hw.iml" filepath="$PROJECT_DIR$/h-hw/h-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j-hw/j-hw.iml" filepath="$PROJECT_DIR$/j-hw/j-hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setup_env2018_june.iml" filepath="$PROJECT_DIR$/setup_env2018_june.iml" />
+    </modules>
+  </component>
+</project>
